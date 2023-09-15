@@ -1,13 +1,13 @@
 ## 👋  Hi! I'm André Henrique!
 
-<div estilo="exibição: flex; lacuna: 3px;">
+<div style="display: flex; gap: 3px;">
   <a href="https://www.linkedin.com/in/andrew-henrique/">
-    <img src="https://github.com/henrique-andre/icons/blob/main/linkedin1.svg" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/henrique-andre/-/main/linkedin1.svg" alt="LinkedIn">
   </a>
-  <a href="mailto: andre.henrique261@gmail.com">
-    <img src="https://github.com/henrique-andre/icons/blob/main/gmail1.svg" alt="Gmail">
+  <a href="mailto:andre.henrique261@gmail.com">
+    <img src="https://raw.githubusercontent.com/henrique-andre/-/main/gmail1.svg" alt="Gmail">
   </a>
-</div >
+</div>
 
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-andre&show_icons=true&theme=tokyonight)
@@ -16,22 +16,15 @@
 
 ### Tecnologias que eu uso no meu dia:
 
- <a href="#">
-    <img src="https://github.com/henrique-andre/icons/blob/main/python.svg" alt="exemplo de crachá" estilo="alinhamento vertical: topooooo margem: 6px 4px">
-    <img src="https://github.com/henrique-andre/icons/blob/main/powershell.svg" alt="exemplo de crachá" estilo="alinhamento vertical: topooooo margem: 6px 4px">
-    <img src="https://github.com/henrique-andre/icons/blob/main/visualstudio_code.svg" alt="exemplo de crachá" estilo="alinhamento vertical: topooooo margem: 6px 4px">
-    <img src="https://github.com/henrique-andre/icons/blob/main/jetbrains_pycharm.svg" alt="exemplo de crachá" estilo="alinhamento vertical: topooooo margem: 6px 4px">
-    <img src="https://github.com/henrique-andre/icons/blob/main/cisco.svg" alt="exemplo de crachá" estilo="alinhamento vertical: topooooo margem: 6px 4px">
-  </a> 
+<div style="display: inline_block"><br>
+  <img alt="Andre-Py" height="" width="" src="https://raw.githubusercontent.com/henrique-andre/-/main/python.svg">
+  <img alt="Andre-Powershell" height="" width="" src="https://raw.githubusercontent.com/henrique-andre/-/main/powershell.svg">
+  <img alt="Andre-VisualStudio" height="" width="" src="https://raw.githubusercontent.com/henrique-andre/-/main/visualstudio_code.svg">
+  <img alt="Andre-Pycharm" height="" width="" src="https://raw.githubusercontent.com/henrique-andre/-/main/jetbrains_pycharm.svg">
+  <img alt="Andre-Cisco" height="" width="" src="https://raw.githubusercontent.com/henrique-andre/-/main/cisco.svg">
+</div> 
 
 
-
- <!-- <a href="#">
-    <img src="https://img.shields.io/badge/Windows-0078D4.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://img.shields.io/badge/Powershell-2CA5E0.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192" alt="example badge" style="vertical-align:top margin:6px 4px">
-    <img src="https://img.shields.io/badge/Powershell-2CA5E0.svg?" alt="example badge" style="vertical-align:top margin:6px 4px">
-  </a>  -->
 
 <h2>🌱 I’m currently learning: </h2>
 <br/>

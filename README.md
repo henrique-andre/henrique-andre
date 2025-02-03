@@ -32,4 +32,4 @@
     <img height="50" width="" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/AWS-Dark.svg">
 </div><br/>
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-andre&show_icons=true&theme=tokyonight)
+![André GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-andre&show_icons=true&theme=tokyonight&cache_seconds=1800)
